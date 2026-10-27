@@ -1,0 +1,14 @@
+# Particle build outputs
+build/
+target/
+.null
+nul
+*.bin
+
+# Particle Workbench / VS Code settings
+.vscode/
+.particle_project/
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db

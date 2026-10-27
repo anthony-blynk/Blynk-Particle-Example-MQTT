@@ -1,0 +1,14 @@
+{
+  "name": "NetMgr",
+  "version": "1.0.0",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/abc/def.git"
+  },
+  "description": "",
+  "keywords": "",
+  "license": "",
+  "frameworks": "*",
+  "platforms": "*"
+}
